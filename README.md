@@ -1,4 +1,5 @@
 # Assignmnet-3
+# Linter and SAST
 
 Linting is a process for identifying bugs and stylistic errors in your code. The process is carried out by analysis tools called ‘linters’, which are widely available for every major programming language.
 
